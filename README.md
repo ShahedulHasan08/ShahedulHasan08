@@ -25,7 +25,5 @@ Skills: HTML / CSS / JS / React / WordPress / C / C++ / Java / Python / C# / Swi
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ShahedulHasan08)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ShahedulHasan08)  
 
